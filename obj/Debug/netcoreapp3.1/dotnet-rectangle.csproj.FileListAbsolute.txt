@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-rectangle\bin\Debug\netcoreapp3.1\dotnet-rectangle.exe
+D:\CodeGym\Bai2\dotnet-rectangle\bin\Debug\netcoreapp3.1\dotnet-rectangle.deps.json
+D:\CodeGym\Bai2\dotnet-rectangle\bin\Debug\netcoreapp3.1\dotnet-rectangle.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-rectangle\bin\Debug\netcoreapp3.1\dotnet-rectangle.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-rectangle\bin\Debug\netcoreapp3.1\dotnet-rectangle.dll
+D:\CodeGym\Bai2\dotnet-rectangle\bin\Debug\netcoreapp3.1\dotnet-rectangle.pdb
+D:\CodeGym\Bai2\dotnet-rectangle\obj\Debug\netcoreapp3.1\dotnet-rectangle.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-rectangle\obj\Debug\netcoreapp3.1\dotnet-rectangle.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-rectangle\obj\Debug\netcoreapp3.1\dotnet-rectangle.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-rectangle\obj\Debug\netcoreapp3.1\dotnet-rectangle.dll
+D:\CodeGym\Bai2\dotnet-rectangle\obj\Debug\netcoreapp3.1\dotnet-rectangle.pdb
